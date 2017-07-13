@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/m2Blank.local/vendor/magento/module-catalog/view/adminhtml/web/component/image-size-field.js

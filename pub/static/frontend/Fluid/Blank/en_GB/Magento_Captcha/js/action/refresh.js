@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/m2Blank.local/vendor/magento/module-captcha/view/frontend/web/js/action/refresh.js

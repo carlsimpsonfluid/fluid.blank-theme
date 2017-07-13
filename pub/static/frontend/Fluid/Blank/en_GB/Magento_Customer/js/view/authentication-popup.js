@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/m2Blank.local/vendor/magento/module-customer/view/frontend/web/js/view/authentication-popup.js

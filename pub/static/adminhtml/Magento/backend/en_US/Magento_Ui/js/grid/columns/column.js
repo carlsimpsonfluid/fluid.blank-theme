@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/m2Blank.local/vendor/magento/module-ui/view/base/web/js/grid/columns/column.js

@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/m2Blank.local/vendor/magento/module-theme/view/frontend/web/js/view/messages.js

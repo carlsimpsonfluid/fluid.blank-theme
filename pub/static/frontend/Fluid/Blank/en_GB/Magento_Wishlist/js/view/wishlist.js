@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/m2Blank.local/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js
